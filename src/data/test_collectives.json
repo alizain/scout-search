@@ -1,0 +1,166 @@
+[
+  {
+    "id": "1",
+    "name": "Open Collective, Inc.",
+    "description": "We are building a platform to let you create an association and collect money for it online, without having to create a legal entity",
+    "currency": "USD",
+    "createdAt": "2015-12-13 00:14:54.028+00",
+    "updatedAt": "2017-11-23 19:32:25.126+00",
+    "deletedAt": "",
+    "isActive": "TRUE",
+    "longDescription": "We are building OpenCollective. Our goal is to enable people to create and fund associations as easily as creating a Facebook group. ",
+    "image": "https://cldup.com/rdmBCmH20l.png",
+    "slug": "opencollectiveinc_internal",
+    "website": "https://opencollective.com",
+    "twitterHandle": "opencollect",
+    "mission": "We are on a mission to give more economic power to communities around the world.",
+    "backgroundImage": "",
+    "tags": "",
+    "isSupercollective": "FALSE",
+    "type": "COLLECTIVE",
+    "data": {
+      "githubContributors": {
+        "xdamman": 2866,
+        "asood123": 1699,
+        "sedubois": 445,
+        "arnaudbenard": 350,
+        "Philmod": 152,
+        "piamancini": 83,
+        "carlosascari": 189,
+        "boneskull": 48,
+        "neilk": 3,
+        "thibauld": 2,
+        "alannallama": 3,
+        "erlend-sh": 1,
+        "louisbl": 1,
+        "MagdeburgerBruck": 1,
+        "patcon": 1,
+        "datapimp": 3,
+        "noeldelgado": 69,
+        "phated": 3,
+        "nellolux": 2,
+        "dasilvacontin": 1,
+        "w00fz": 1,
+        "ErnieAtLYD": 1,
+        "gabriellupu": 1,
+        "jancborchardt": 1,
+        "RichardLitt": 1,
+        "scottmathson": 1,
+        "thomasJang": 1,
+        "tleunen": 1,
+        "vitorbaptista": 1,
+        "nayafia": 1,
+        "gitter-badger": 1,
+        "ainigrivS": 1,
+        "marulango": 22
+      },
+      "repos": {
+        "opencollective-api": {
+          "stars": 61
+        },
+        "opencollective-cli": {
+          "stars": 1
+        },
+        "image-server": {
+          "stars": 0
+        },
+        "opencollective-postinstall": {
+          "stars": 17
+        },
+        "frontend": {
+          "stars": 17
+        },
+        "opencollective-site": {
+          "stars": 2
+        },
+        "babel-preset-opencollective": {
+          "stars": 0
+        },
+        "opensource": {
+          "stars": 1
+        },
+        "opencollective-lib": {
+          "stars": 0
+        },
+        "opencollective-jobs": {
+          "stars": 1
+        },
+        "eslint-config-opencollective": {
+          "stars": 1
+        },
+        "opencollective-website": {
+          "stars": 44
+        },
+        "opencollective": {
+          "stars": 244
+        },
+        "express-server-status": {
+          "stars": 2
+        },
+        "opencollective-app": {
+          "stars": 8
+        }
+      }
+    }
+  }, {
+    "id": "2",
+    "name": "WWCode Austin",
+    "description": "WWCode is a global non-profit organization that inspires women to excel in technology careers. zabergash zabergash",
+    "currency": "USD",
+    "createdAt": "2015-12-13 00:14:54.028+00",
+    "updatedAt": "2016-12-23 15:30:21.805+00",
+    "deletedAt": "",
+    "isActive": "TRUE",
+    "longDescription": "WWCode connects amazing women engineers around the globe who unite under one simple notion ��� the world of technology is better with women in it. We work hard everyday to increase our impact, expand our reach, and continue to push women to the forefront in the technology space.    Our program avenues include in-person events, leadership, and our weekly publication, the CODE Review. We have garnered a membership of 80,000 tech women across 60 cities and 20 countries, and continue to grow! [**Explore upcoming events in Austin**](https://www.womenwhocode.com/austin).   [**Get Involved**](https://docs.google.com/forms/d/e/1FAIpQLSeAl3dRRR312S1CcQonYE72JDumGhpuh6G9INhyrJxOM1w16g/viewform)  [**Host**](https://docs.google.com/forms/d/e/1FAIpQLSeAl3dRRR312S1CcQonYE72JDumGhpuh6G9INhyrJxOM1w16g/viewform) an event at your company's office   [**Volunteer**](https://docs.google.com/forms/d/e/1FAIpQLSeAl3dRRR312S1CcQonYE72JDumGhpuh6G9INhyrJxOM1w16g/viewform) to support network leadership   [**Share**](https://www.womenwhocode.com/jobs/about) a job opportunity with our community   [**Donate**](https://opencollective.com/wwcodeaustin#support) to support WWCode Austin    Questions? Email us at global@womenwhocode.com.   ",
+    "image": "https://cldup.com/mX6wUEonFH.png",
+    "slug": "wwcodeaustin",
+    "website": "",
+    "twitterHandle": "",
+    "mission": "We are on a mission to inspire women to excel in tech careers.",
+    "backgroundImage": "",
+    "tags": "{wwcode,meetup,\"diversity in tech\",501c3}",
+    "isSupercollective": "FALSE",
+    "type": "COLLECTIVE",
+    "data": ""
+  }, {
+    "id": "3",
+    "name": "WWCode New York",
+    "description": "WWCode is a non-profit organization that inspires women to excel in technology careers. zabergash",
+    "currency": "USD",
+    "createdAt": "2015-12-13 00:14:54.028+00",
+    "updatedAt": "2016-12-27 18:05:42.126+00",
+    "deletedAt": "",
+    "isActive": "TRUE",
+    "longDescription": "WWCode connects amazing women engineers around the globe who unite under one simple notion ��� the world of technology is better with women in it. We work hard everyday to increase our impact, expand our reach, and continue to push women to the forefront in the technology space.    Our program avenues include in-person events, leadership, and our weekly publication, the CODE Review. We have garnered a membership of 80,000 tech women across 60 cities and 20 countries, and continue to grow! [**Explore upcoming events in New York City**](https://www.womenwhocode.com/nyc).   [**Get Involved**](https://docs.google.com/forms/d/e/1FAIpQLSc7votVvy_Q06MsZNEjAbjI0c9WmQugN-YxRKOlLW4nu9DKtg/viewform)  [**Host**](https://docs.google.com/forms/d/e/1FAIpQLSc7votVvy_Q06MsZNEjAbjI0c9WmQugN-YxRKOlLW4nu9DKtg/viewform) an event at your company's office   [**Volunteer**](https://docs.google.com/forms/d/e/1FAIpQLSc7votVvy_Q06MsZNEjAbjI0c9WmQugN-YxRKOlLW4nu9DKtg/viewform) to support network leadership   [**Share**](https://www.womenwhocode.com/jobs/about) a job opportunity with our community   [**Donate**](https://opencollective.com/wwcodenyc#support) to support WWCode New York City   Questions? Email us at global@womenwhocode.com.   ",
+    "image": "https://cldup.com/sjus3sm9uv.png",
+    "slug": "wwcodenyc",
+    "website": "http://www.meetup.com/WomenWhoCodeNYC/",
+    "twitterHandle": "wwcodenyc",
+    "mission": "We are on a mission to inspire women to excel in tech careers.",
+    "backgroundImage": "",
+    "tags": "{wwcode,meetup,\"diversity in tech\",501c3}",
+    "isSupercollective": "FALSE",
+    "type": "COLLECTIVE",
+    "data": ""
+  }, {
+    "id": "4",
+    "name": "WWCode San Francisco",
+    "description": "WWCode is a non-profit organization that inspires women to excel in technology careers.",
+    "currency": "USD",
+    "createdAt": "2015-12-13 00:14:54.028+00",
+    "updatedAt": "2016-12-27 19:54:09.597+00",
+    "deletedAt": "",
+    "isActive": "TRUE",
+    "longDescription": "WWCode connects amazing women engineers around the globe who unite under one simple notion ��� the world of technology is better with women in it. We work hard everyday to increase our impact, expand our reach, and continue to push women to the forefront in the technology space.    Our program avenues include in-person events, leadership, and our weekly publication, the CODE Review. We have garnered a membership of 80,000 tech women across 60 cities and 20 countries, and continue to grow! [**Explore upcoming events in San Francisco**](https://www.womenwhocode.com/sf).   [**Get Involved**](https://docs.google.com/forms/d/e/1FAIpQLSebpozJA-r33FvptTT2XFNoV66gxMm0NZn1oVDV64A1VeW0GQ/viewform)  [**Host**](https://docs.google.com/forms/d/e/1FAIpQLSebpozJA-r33FvptTT2XFNoV66gxMm0NZn1oVDV64A1VeW0GQ/viewform) an event at your company's office   [**Volunteer**](https://docs.google.com/forms/d/e/1FAIpQLSebpozJA-r33FvptTT2XFNoV66gxMm0NZn1oVDV64A1VeW0GQ/viewform) to support network leadership   [**Share**](https://www.womenwhocode.com/jobs/about) a job opportunity with our community   [**Donate**](https://opencollective.com/wwcodesf#support) to support WWCode San Francisco   Questions? Email us at global@womenwhocode.com.   ",
+    "image": "https://cldup.com/6kFcX-6H5l.png",
+    "slug": "wwcodesf",
+    "website": "http://www.meetup.com/Women-Who-Code-SF",
+    "twitterHandle": "wwcodesf",
+    "mission": "We are on a mission to inspire women to excel in tech careers.",
+    "backgroundImage": "",
+    "tags": "{wwcode,meetup,\"diversity in tech\",501c3}",
+    "isSupercollective": "FALSE",
+    "type": "COLLECTIVE",
+    "data": ""
+  }
+]
